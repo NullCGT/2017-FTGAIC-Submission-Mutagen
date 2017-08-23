@@ -1,0 +1,5 @@
+This is my submission for the 2017 Fighting Game AI Competition, located at http://www.ice.ci.ritsumei.ac.jp/~ftgaic/. This AI placed fourth overall, but placed first in two out of the six competitions. In the competitions it placed first in, it went undefeated, scoring the maximum number of points.
+
+There are a number of improvements I would make to this, mostly oriented around speedrunning. While the AI has an extremely high win rate with Zen and Garnet, it does not get wins quickly, which was a major detriment in the competition. In addition, my implementation of a last-good-reply algorithm for the Lud competition was rather messy, and I am unsure that LGR is the algorithm best suited for this task.
+
+Assuming I enter the competition next year, I believe that I may try something involving deep learning, or try to apply my python skills by creating a visual-based python AI, as described on the competition web site. Feel free to contact me to talk to me more about this program and the challenges that went into creating it.
